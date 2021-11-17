@@ -1,0 +1,11 @@
+options:
+  spellcheck: true
+  lineNumbers: true
+  nineyaImageFilePath: false
+  imagePath: /post-img
+  imagePrefix: post-img
+  askImageFilename: false
+editor:
+  inputStyle: contenteditable
+  spellcheck: true
+  lineNumbers: true
