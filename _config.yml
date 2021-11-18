@@ -104,11 +104,11 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Jiangxindong/jiangxindong.github.io.git
+  repository: https://github.com/jiangxindong/jiangxindong.github.io.git
   branch: main
 # hexo-admin authentification
 admin:
   username: admin
   password_hash: $2a$10$EzR.26yQGEzjmqhhxk7rU.qRA/0L2r9mfTdnNELUiKJLHQ7mLzkCC
   secret: my super secret phrase
-  deployCommand: ./admin_script/deploy.sh
+  deployCommand: './admin_script/deploy.bat'

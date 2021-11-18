@@ -663,7 +663,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Github
-      link: https://github.com/Jiangxindong
+      link: https://github.com/jiangxindong
   card_announcement:
     enable: true
     content: 域名和服务器到期了，评论也挂了，干脆搬到github，省心些。

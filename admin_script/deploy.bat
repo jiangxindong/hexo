@@ -1,0 +1,1 @@
+cmd /k "hexo clean && hexo d -g"

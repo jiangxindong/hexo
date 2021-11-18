@@ -11,7 +11,8 @@ function once(fn) {
 
 module.exports = function (command, message, done) {
   done = once(done);
-  var proc = spawn(command, [message], {detached: true});
+  // var proc = spawn(command, [message], {detached: true}); 旧的，不兼容windows
+  var proc = spawn((process.platform === "win32" ? "hexo.cmd" : "hexo"), ['d', '-g']);
   var stdout = '';
   var stderr = '';
   proc.stdout.on('data', function(data){stdout += data.toString()})
