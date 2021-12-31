@@ -2,10 +2,11 @@ title: ES6的学习（三）
 author: Jiangxindong
 tags:
   - 前端学习笔记
-  - Javascript
   - ES6
+  - Javascript
 categories:
-  - 前端学习笔记
+  - 学习笔记
+  - 前端
 date: 2020-08-17 16:47:00
 ---
 ## ES6的学习（三）

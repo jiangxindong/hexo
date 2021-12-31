@@ -5,7 +5,8 @@ tags:
   - ES6
   - Javascript
 categories:
-  - 前端学习笔记
+  - 学习笔记
+  - 前端
 date: 2020-08-13 16:41:00
 ---
 ##  ES6的学习（一）

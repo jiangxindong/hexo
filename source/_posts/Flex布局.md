@@ -1,11 +1,12 @@
 title: Flex布局
 author: Jiangxindong
 tags:
-  - 学习笔记
   - 前端学习笔记
+  - 学习笔记
 categories:
   - 学习笔记
-  - 前端学习笔记
+  - 前端
+  - ''
 date: 2020-09-22 16:44:00
 ---
 ### 引言
