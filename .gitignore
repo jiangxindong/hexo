@@ -7,4 +7,4 @@ public/
 .deploy*/
 .deploy_git/
 .github/
-themes/
+# themes/
