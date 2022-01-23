@@ -2,7 +2,8 @@ title: hexo-admin安装与使用
 author: Jiangxindong
 tags:
   - hexo
-categories: []
+categories:
+  - blog
 date: 2019-09-23 16:47:00
 ---
 ## hexo-admin安装与使用

@@ -2,8 +2,11 @@ title: HTML、CSS基础
 author: Jiangxindong
 tags:
   - 前端
+  - HTML
+  - CSS
 categories:
-  - 前端学习笔记
+  - 学习笔记
+  - 前端
 date: 2019-10-14 17:04:00
 ---
 ## HTML、CSS

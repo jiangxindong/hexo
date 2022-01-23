@@ -1,10 +1,11 @@
 title: 初见Vue
 author: Jiangxindong
 tags:
+  - 学习笔记
   - Vue
-  - 前端学习笔记
 categories:
-  - 前端学习笔记
+  - 学习笔记
+  - 前端
   - Vue
 date: 2019-10-17 15:51:00
 ---
